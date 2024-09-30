@@ -20,5 +20,8 @@ public class Calculator {
     public double division(double a, double b) {
         return a / b;
     }
+    public int modulus(int a, int b) {
+        return a % b;
+    }
 
 }
